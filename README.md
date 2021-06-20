@@ -2,7 +2,7 @@
 
 A guide on how to donate to [@totakaro](https://github.com/totakaro) using your Nicehash Lightning wallet
 
-1. Open my donation page, Example: https://totakaro.github.io/donate?amount=5&description=Donation and make sure the minimun amount is at least 10000 Satoshi or 0.0001 BTC ([Nicehash minimun is 0.0001 BTC](https://www.nicehash.com/support/general-help/nicehash-service/fees)). Then copy the lightning code:
+1. Open my donation page, Example: https://totakaro.github.io/donate?amount=5&description=Donation and make sure the minimun amount is at least 10000 Satoshi or 0.0001 BTC ([Nicehash minimum is 0.0001 BTC](https://www.nicehash.com/support/general-help/nicehash-service/fees)). Then copy the lightning code:
 
 ![image](https://user-images.githubusercontent.com/30659361/122658313-4966ab00-d131-11eb-93a2-141ea4907568.png)
 
